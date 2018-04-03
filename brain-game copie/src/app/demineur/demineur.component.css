@@ -1,0 +1,68 @@
+/*body {
+  background: linear-gradient(#a8a4b8,#D8BFD8);
+  font-family : Helvetica, Arial, sans-serif;
+  width: 80%;
+  float: right;
+  padding-bottom: 999px;
+  text-align: center;
+  margin: 1px;
+  border-top-right-radius: 20px;
+  min-width: 80%;
+
+}
+*/
+#body_demineur
+{
+
+  font-family: Helvetica, Arial, sans-serif;
+  background: linear-gradient(#a8a4b8, #D8BFD8);
+  text-align: center;
+  border-top-right-radius: 20px;
+  width: 80%;
+  min-width: 860px;
+  float: right;
+  margin: 0;
+
+}
+
+h1{
+  padding-top: 50px ;
+  margin-left: 20px;
+  font-size: 35px;
+  border-bottom-style: solid;
+  border-width: 1px;
+  padding-bottom: 30px;
+  color: #05001d;
+}
+
+.jeuDemineur {
+  border: solid chartreuse;
+  width: 60%;
+  padding: 200px 30px 200px 30px;
+  margin: auto auto 50px;
+
+}
+
+.boutonDemineur{
+
+  text-align: center;
+  background-color: brown;
+
+}
+
+#regle {
+
+  min-width: 900px;
+  background-color: transparent;
+  border-style: solid;
+  color: #a8a4b8;
+}
+
+#regle:hover {
+  color: black;
+
+}
+
+button {
+  cursor: pointer;
+}

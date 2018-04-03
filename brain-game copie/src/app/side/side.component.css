@@ -1,0 +1,30 @@
+nav {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: black;
+  width: 200px;
+  /*background-image: url("../../assets/fond_side.png");*/
+  color: white;
+  border-top-left-radius: 20px;
+
+  padding-bottom: 100%;
+  font-weight: bold;
+  min-width: 200px;
+
+  position: absolute;
+
+
+}
+
+h2 {
+  margin-left: 9px;
+}
+
+li:hover {
+  text-decoration: underline;
+  color: #0480FB;
+  cursor: pointer;
+}
+
+img {
+  margin-top: 100px;
+}

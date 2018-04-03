@@ -1,0 +1,38 @@
+#h1_header {
+  float: left;
+  /*background-image: url("../../assets/fond_head.jpg");*/
+  text-align: center;
+  font-size: 35px;
+  text-shadow: 3px 3px 3px black;
+  width: 25%;
+  padding: 10px 0 10px 0;
+  /*border-style: solid;
+  border-width: 1px;*/
+  border-radius: 20px;
+  margin-top: 33px;
+  margin-left: 35px;
+  cursor: pointer;
+  color: #F41615;
+  border-color: black;
+  min-width: 25%;
+
+}
+
+img{
+  float:left;
+  border-radius: 20px;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+header {
+  background-image: url("../../assets/fond_head.jpg");
+  font-family : Helvetica, Arial, sans-serif;
+  height: 125px;
+  border-radius: 20px;
+
+
+
+}
+
+
